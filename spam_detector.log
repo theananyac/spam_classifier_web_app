@@ -1,0 +1,9 @@
+2025-06-30 21:32:50,884 - __main__ - WARNING - No trained model found. Initializing with dummy data...
+2025-06-30 21:32:50,899 - __main__ - INFO - Created new dummy model
+2025-06-30 21:32:50,913 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:32:50] "GET / HTTP/1.1" 200 -
+2025-06-30 21:33:13,594 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:33:13] "[33mPOST /predict HTTP/1.1[0m" 404 -
+2025-06-30 21:33:22,045 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:33:22] "GET / HTTP/1.1" 200 -
+2025-06-30 21:33:33,178 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:33:33] "[33mPOST /predict HTTP/1.1[0m" 404 -
+2025-06-30 21:33:40,316 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:33:40] "[33mPOST /predict HTTP/1.1[0m" 404 -
+2025-06-30 21:33:48,527 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:33:48] "GET / HTTP/1.1" 200 -
+2025-06-30 21:34:09,781 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2025 21:34:09] "[33mPOST /predict HTTP/1.1[0m" 404 -
